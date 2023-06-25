@@ -1,4 +1,4 @@
 # todo-list
 A command-line todo list app with Rust.
 
-first commit
+Just a simple project to get familairized with Rust. My Rust skills are very rusty...
