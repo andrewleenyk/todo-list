@@ -1,3 +1,7 @@
+mod todo_list;
+
+use todo_list::ToDoList;
 fn main() {
-    println!("Hello, world!");
+    let mut todo_list = ToDoList::new();
+
 }
